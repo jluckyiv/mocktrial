@@ -1,0 +1,4 @@
+---
+app_name: mocktrial
+repo_url: "git@github.com:jluckyiv/mocktrial.git"
+app_port: 3001
