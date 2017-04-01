@@ -1,0 +1,4 @@
+- name: elixir-stack
+  src: https://github.com/HashNuke/ansible-elixir-stack
+  version: upgrade-fixes
+
